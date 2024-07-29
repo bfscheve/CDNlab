@@ -1,6 +1,6 @@
 ---
 name: João Guassi Moreira
-image: images/photo.jpg
+image: images/SANS_headshot.jpeg
 role: pi
 affiliation: University of Wisconsin
 aliases:
