@@ -1,8 +1,7 @@
 ---
 name: Ben Scheve
 image: images/bsch_headshot.jpg
-role: Lab Manager
-group: University of Wisconsin
+description: Lab Manager
 links:
   github: bfscheve
 ---
