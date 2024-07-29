@@ -1,6 +1,6 @@
 ---
 name: Ben Scheve
-image: images/photo.jpg
+image: images/bsch_headshot.jpg
 role: Lab Manager
 group: University of Wisconsin
 links:
