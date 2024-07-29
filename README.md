@@ -1,5 +1,5 @@
 
-# bfscheveDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Draft Website
 
 Visit **[bfscheve.github.io/CDNlab](https://bfscheve.github.io/CDNlab)** 🚀
 
