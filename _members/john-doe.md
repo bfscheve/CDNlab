@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Ben Scheve
 image: images/photo.jpg
-role: phd
-group: alum
+role: Lab Manager
+group: University of Wisconsin
 links:
-  github: john-doe
+  github: bfscheve
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I did not copy my blurb before I was moved into the alumni section of my undergraduate lab website, so now I need to write a new one.
