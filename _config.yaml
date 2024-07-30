@@ -8,13 +8,13 @@ proofer: false
 
 # site social media and other links
 links:
-  email: lab@email
+  email: contact@your-lab.com
   orcid: 0000-0001-8312-4487
-  osf: 38e4d
-  google-scholar:bEKIRfkAAAAJ
+  google-scholar: bEKIRfkAAAAJ
   github: jguassimoreira
   twitter: c_shamballa
-  youtube: delete?
+  youtube: YourLabChannel
+  osf: 38e4d
 
 ### jekyll settings
 
