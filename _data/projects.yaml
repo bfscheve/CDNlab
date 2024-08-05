@@ -1,47 +1,35 @@
-- title: Test Project
+- title: DECISION-MAKING, RISK-TAKING
   subtitle: Subtitle
-  group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Testing the editing of the projects
+  description: Description
   repo: greenelab/lab-website-template
   tags:
     - text
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: EMOTION AND EMOTION REGULATION
+  subtitle: Subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Description
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - test
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: INTERACTIONS WITH KNOWN SOCIAL OTHERS
+  subtitle: Subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Description
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - text
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: METHODS DEVELOPMENT
+  subtitle: Subtitle
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Description
   repo: greenelab/lab-website-template
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - code
