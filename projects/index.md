@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Interests, projects and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
