@@ -28,7 +28,7 @@ of aiding scientists with research goals similar to our own.
 
 {% include section.html %}
 
-## Featured
+## Topics
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
