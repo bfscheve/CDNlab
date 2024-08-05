@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Example Undergraduate
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Undergraduate Research Assistant
+role: undergraduate
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: example.undergraduate@gmail.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Undergraduate's blurb here.
