@@ -14,8 +14,12 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+postbac:
   icon: fa-solid fa-user-graduate
+  description: Post-Baccalaureate Research Assistant
+
+undergrad:
+  icon: fa-solid fa-school
   description: Undergraduate Student
 
 programmer:
