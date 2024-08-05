@@ -13,7 +13,7 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Highlighted
 
-{% include citation.html lookup="A Data-Driven Typology of Emotion Regulation Profiles" style="rich" %}
+{% include citation.html lookup="Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations" style="rich" %}
 
 {% include section.html %}
 
