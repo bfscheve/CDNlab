@@ -33,9 +33,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Scientific advancement is impossible without methodological advancement. A nascent line of work in the lab seeks to help develop and refine methods as they relate to the problems that we and other groups face in pursuing the research described above. For us, this means taking a methodological issue that is frequently encountered in our work (e.g., necessary sample sizes for a specific type of model) and systematically probing the issue in an independent study in a such way that generates useful knowledge that can generalize to other scientists in our field (e.g., running simulation study to ascertain the minimum number of subjects need to fit saidmodel). We also believe in the importance of creating practical and accessible reviews of emergent methods to help spur their adoption in research groups that are interested in using
-them but do not have prior experience. Dr. Guassi Moreira is accepting students who are
-interested in this line of work.
+  description: Scientific advancement is impossible without methodological advancement. A nascent line of work in the lab seeks to help develop and refine methods as they relate to the problems that we and other groups face in pursuing the research described above. For us, this means taking a methodological issue that is frequently encountered in our work (e.g., necessary sample sizes for a specific type of model) and systematically probing the issue in an independent study in a such way that generates useful knowledge that can generalize to other scientists in our field (e.g., running simulation study to ascertain the minimum number of subjects need to fit saidmodel). We also believe in the importance of creating practical and accessible reviews of emergent methods to help spur their adoption in research groups that are interested in using them but do not have prior experience. Dr. Guassi Moreira is accepting students who are interested in this line of work.
   repo: greenelab/lab-website-template
   tags:
     - Code, Methods, Data
