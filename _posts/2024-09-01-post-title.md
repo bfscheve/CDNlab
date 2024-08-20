@@ -1,11 +1,6 @@
 ---
-title: An ordinary day in the life of me
-image: images/some-photo.jpg
-author: tim-member
-tags:
-  - biology
-  - big data
-  - medicine
+title: A title for an announcement
+author: ben-scheve
 ---
 
 <!-- excerpt start -->
