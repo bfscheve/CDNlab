@@ -39,5 +39,5 @@ If you are interested in joining the lab as a volunteer research assistant, plea
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/o77NPcZEfoppp2Qj7"
 %}
