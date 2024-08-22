@@ -21,7 +21,7 @@ If you are interested in joining the lab as a staff member (post-baccalaureate r
 
 **Research Assistants**  
 *The lab is looking for several new volunteers.*  
-If you are interested in joining the lab as a volunteer research assistant, please reach out the [lab manager](cdnlab.uwisc@gmail.com) with a brief introduction about yourself, what you want to gain from volunteering in the lab, and a copy of your resume or CV. If you are a UW undergraduate student, you may be able to earn course credit for your involvement in the lab.  
+If you are interested in joining the lab as a volunteer research assistant, please reach out to the [lab manager](cdnlab.uwisc@gmail.com) with a brief introduction about yourself, what you want to gain from volunteering in the lab, and a copy of your resume or CV. If you are a UW undergraduate student, you may be able to earn course credit for your involvement in the lab.  
 
 {%
   include button.html
