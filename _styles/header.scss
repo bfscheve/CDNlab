@@ -114,12 +114,12 @@ nav > a:hover {
 header:not([data-big]) {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: left;
 
   .home {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: left;
     gap: 10px;
     flex-grow: 0; // Keep the logo on the left
     flex-shrink: 0; // Prevent the logo from shrinking
@@ -128,7 +128,7 @@ header:not([data-big]) {
   nav {
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    align-items: left;
     gap: 20px; // Space between nav items
     flex-grow: 1; // Ensure the nav takes up remaining space
     max-width: 100%; // Prevent the nav from overflowing
