@@ -128,12 +128,12 @@ header:not([data-big]) {
   }
 
   nav {
-    flex-grow: 1; // Allows nav to take up remaining space
+    flex-grow: 1; // Ensures the nav takes up the remaining space
     display: flex;
     justify-content: flex-end; // Aligns nav items to the right
     align-items: center;
     gap: 20px; // Space between nav items
-    max-width: 100%; // Prevent overflow of nav items
+    max-width: calc(100% - 100px); // Prevents overflow of nav items, with some margin for the logo
   }
 
   @media (max-width: $collapse) {
