@@ -1,6 +1,7 @@
 ---
 title: A title for an announcement
 author: ben-scheve
+image: images/SANS_Headshot.jpg
 ---
 
 <!-- excerpt start -->
