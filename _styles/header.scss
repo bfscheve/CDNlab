@@ -121,13 +121,15 @@ header:not([data-big]) {
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
+    flex-grow: 0; // Ensure the logo stays fixed to the left
   }
 
   nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    gap: 10px;
+    gap: 20px; // Increase gap to match the desired layout
+    flex-grow: 1; // Ensure the nav stretches to the right
   }
 
   @media (max-width: $collapse) {
