@@ -102,12 +102,12 @@ nav > a:hover {
 header:not([data-big]) {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: left;
 }
 header:not([data-big]) .home {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: left;
   gap: 10px;
   flex-grow: 0;
   flex-shrink: 0;
@@ -115,7 +115,7 @@ header:not([data-big]) .home {
 header:not([data-big]) nav {
   display: flex;
   justify-content: flex-end;
-  align-items: center;
+  align-items: left;
   gap: 20px;
   flex-grow: 1;
   max-width: 100%;
