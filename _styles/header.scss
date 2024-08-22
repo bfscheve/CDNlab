@@ -1,3 +1,6 @@
+---
+---
+
 $logo-big: 80px;
 $logo: 40px;
 $big-padding: 100px;
@@ -128,8 +131,7 @@ header:not([data-big]) {
   }
 }
 
-header[data-big],
-body.home-page header {
+header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -160,22 +162,5 @@ body.home-page header {
 
   .subtitle {
     font-size: var(--large);
-  }
-}
-
-/* Additional styling for other pages */
-body:not(.home-page) header {
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-
-  .logo {
-    height: $logo;
-  }
-
-  .title-text {
-    flex-direction: row;
-    align-items: baseline;
-    text-align: left;
   }
 }
