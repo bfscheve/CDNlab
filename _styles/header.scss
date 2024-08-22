@@ -121,18 +121,27 @@ header:not([data-big]) {
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
-    flex-grow: 0; // Ensure the logo stays fixed to the left
+    flex-grow: 0; // Keep the logo on the left
+    flex-shrink: 0; // Prevent the logo from shrinking
   }
 
   nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    gap: 20px; // Increase gap to match the desired layout
-    flex-grow: 1; // Ensure the nav stretches to the right
+    gap: 20px; // Space between nav items
+    flex-grow: 1; // Ensure the nav takes up remaining space
+    max-width: 100%; // Prevent the nav from overflowing
   }
 
   @media (max-width: $collapse) {
+    flex-direction: column; // Stack logo and nav vertically on small screens
+    align-items: stretch; // Stretch items to full width
+    .home {
+      justify-content: center; // Center logo on small screens
+      flex-grow: 1;
+    }
+
     .nav-toggle {
       display: flex;
     }
@@ -142,7 +151,7 @@ header:not([data-big]) {
     }
 
     nav {
-      align-items: flex-end;
+      align-items: center;
       flex-direction: column;
       width: 100%;
     }
