@@ -1,11 +1,3 @@
-{% assign image = page.header | default: site.header | relative_url %}
-{% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
-
-{% assign svg = "images/logo.svg" | file_exists %}
-{% assign png = "images/logo.png" | file_exists %}
-{% assign jpg = "images/logo.jpg" | file_exists %}
-{% assign logo = svg | default: png | default: jpg | default: nil %}
-
 <header
   class="background"
   style="--image: url('{{ image }}')"
@@ -57,3 +49,51 @@
     {% endfor %}
   </nav>
 </header>
+
+<style>
+/* Flexbox layout for alignment */
+header.background {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ensures space between the logo and nav links */
+    padding: 10px 20px; /* Adjust padding as needed */
+}
+
+/* Ensure the logo and text are aligned */
+header .home {
+    display: flex;
+    align-items: center;
+}
+
+/* Add space between the logo and the title */
+header .logo {
+    margin-right: 20px;
+}
+
+/* Flexbox layout for nav links */
+header nav {
+    display: flex;
+    gap: 15px; /* Space between navigation links */
+}
+
+/* Basic style for navigation links */
+header nav a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: white; /* Change color as needed */
+}
+
+/* Style for title and subtitle text */
+header .title-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px; /* Space between logo and text */
+}
+
+/* Hide the nav-toggle checkbox if not used */
+.nav-toggle {
+    display: none;
+}
+</style>
