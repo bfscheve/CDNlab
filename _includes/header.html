@@ -7,7 +7,7 @@
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
 <header
-  class="background"
+  class="background {% if page.url != '/' %}small-logo{% endif %}"
   style="--image: url('{{ image }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
@@ -57,3 +57,9 @@
     {% endfor %}
   </nav>
 </header>
+
+<style>
+  .small-logo .logo {
+    height: 30px;  /* Smaller logo size on non-home pages */
+  }
+</style>
