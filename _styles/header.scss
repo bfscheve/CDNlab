@@ -114,29 +114,32 @@ nav > a:hover {
 header:not([data-big]) {
   display: flex;
   justify-content: space-between;
-  align-items: left;
+  align-items: center; // Align items vertically centered
+  padding: 20px;
+  gap: 10px; // Adjust gap between logo and nav
 
   .home {
+    flex-grow: 0; // Prevents the logo area from growing
+    flex-shrink: 0; // Prevents the logo from shrinking
     display: flex;
     justify-content: flex-start;
-    align-items: left;
-    gap: 10px;
-    flex-grow: 0; // Keep the logo on the left
-    flex-shrink: 0; // Prevent the logo from shrinking
+    align-items: center;
+    gap: 10px; // Space between logo and title
   }
 
   nav {
+    flex-grow: 1; // Allows nav to take up remaining space
     display: flex;
-    justify-content: flex-end;
-    align-items: left;
+    justify-content: flex-end; // Aligns nav items to the right
+    align-items: center;
     gap: 20px; // Space between nav items
-    flex-grow: 1; // Ensure the nav takes up remaining space
-    max-width: 100%; // Prevent the nav from overflowing
+    max-width: 100%; // Prevent overflow of nav items
   }
 
   @media (max-width: $collapse) {
-    flex-direction: column; // Stack logo and nav vertically on small screens
+    flex-direction: column; // Stack items vertically on small screens
     align-items: stretch; // Stretch items to full width
+
     .home {
       justify-content: center; // Center logo on small screens
       flex-grow: 1;
@@ -151,8 +154,8 @@ header:not([data-big]) {
     }
 
     nav {
+      flex-direction: column; // Stack nav items vertically
       align-items: center;
-      flex-direction: column;
       width: 100%;
     }
   }
