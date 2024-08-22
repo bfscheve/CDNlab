@@ -311,94 +311,103 @@
 </head>
 
   <body>
-    <header class="background" style="--image: url('')">
-  <a href="/CDNlab/" class="home">
-    
-    
-      <span class="title-text" data-tooltip="Home">
-        
-        
-      </span>
-    
-  </a>
+    <header class="header-container" style="--image: url('')">
+  <div class="header-content">
+    <a href="/CDNlab/" class="home">
+      
+      
+        <span class="title-text" data-tooltip="Home">
+          
+          
+        </span>
+      
+    </a>
 
-  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+    <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
-  <nav>
-    
-    
+    <nav>
       
-        <a href="/CDNlab/research/" data-tooltip="Published works">
-          Papers
-        </a>
       
-    
+        
+          <a href="/CDNlab/research/" data-tooltip="Published works">
+            Papers
+          </a>
+        
       
-        <a href="/CDNlab/projects/" data-tooltip="Interests, projects and more">
-          Research
-        </a>
+        
+          <a href="/CDNlab/projects/" data-tooltip="Interests, projects and more">
+            Research
+          </a>
+        
       
-    
+        
+          <a href="/CDNlab/team/" data-tooltip="About our team">
+            Team
+          </a>
+        
       
-        <a href="/CDNlab/team/" data-tooltip="About our team">
-          Team
-        </a>
+        
+          <a href="/CDNlab/blog/" data-tooltip="Announcements">
+            News
+          </a>
+        
       
-    
+        
+          <a href="/CDNlab/contact/" data-tooltip="Email, address, and location">
+            Contact
+          </a>
+        
       
-        <a href="/CDNlab/blog/" data-tooltip="Announcements">
-          News
-        </a>
-      
-    
-      
-        <a href="/CDNlab/contact/" data-tooltip="Email, address, and location">
-          Contact
-        </a>
-      
-    
-  </nav>
+    </nav>
+  </div>
 </header>
 
 <style>
-/* Flexbox layout for alignment */
-header.background {
-    display: flex;
-    align-items: center;
-    justify-content: space-between; /* Ensures space between the logo and nav links */
+/* Basic styles for the header */
+.header-container {
+    background-color: #000; /* Fallback color, replace with your desired background */
     padding: 10px 20px; /* Adjust padding as needed */
 }
 
+/* Ensure flexbox layout for alignment */
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Ensures space between logo and nav */
+    max-width: 1200px; /* Optional: to control the width of the content */
+    margin: 0 auto; /* Center align the content within the header */
+}
+
 /* Ensure the logo and text are aligned */
-header .home {
+.home {
     display: flex;
     align-items: center;
 }
 
-/* Add space between the logo and the title */
-header .logo {
+/* Space between the logo and the title text */
+.logo {
     margin-right: 20px;
 }
 
 /* Flexbox layout for nav links */
-header nav {
+nav {
     display: flex;
     gap: 15px; /* Space between navigation links */
 }
 
 /* Basic style for navigation links */
-header nav a {
-    display: inline-block;
-    padding: 10px;
+nav a {
+    color: white; /* Adjust text color */
     text-decoration: none;
-    color: white; /* Change color as needed */
+    padding: 10px;
 }
 
 /* Style for title and subtitle text */
-header .title-text {
+.title-text {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color: white; /* Adjust text color */
     margin-left: 10px; /* Space between logo and text */
 }
 
