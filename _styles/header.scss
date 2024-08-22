@@ -112,9 +112,25 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
-  @media (max-width: $collapse) {
-    justify-content: flex-end;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
+  .home {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+  }
+
+  nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+  }
+
+  @media (max-width: $collapse) {
     .nav-toggle {
       display: flex;
     }
