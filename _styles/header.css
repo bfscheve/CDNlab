@@ -109,12 +109,14 @@ header:not([data-big]) .home {
   justify-content: flex-start;
   align-items: center;
   gap: 10px;
+  flex-grow: 0;
 }
 header:not([data-big]) nav {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
+  flex-grow: 1;
 }
 @media (max-width: 700px) {
   header:not([data-big]) .nav-toggle {
