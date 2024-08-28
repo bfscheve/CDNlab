@@ -130,7 +130,7 @@ header:not([data-big]) {
   nav {
     flex-grow: 1; // Ensures the nav takes up the remaining space
     display: flex;
-    justify-content: flex-end; // Aligns nav items to the right
+    justify-content: flex;
     align-items: center;
     gap: 20px; // Space between nav items
     max-width: calc(100% - 100px); // Prevents overflow of nav items, with some margin for the logo
