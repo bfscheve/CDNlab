@@ -99,25 +99,24 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
+.small-logo .logo {
+  height: 30px; /* Smaller logo size on non-home pages */
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
-  gap: 10px;
+  align-items: center; /* Vertically align the logo with the nav text */
 }
+
 header:not([data-big]) .home {
-  flex-grow: 0;
-  flex-shrink: 0;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   gap: 10px;
+  flex-grow: 0;
+  flex-shrink: 0;
 }
 header:not([data-big]) nav {
   flex-grow: 1;
   display: flex;
-  justify-content: flex;
+  justify-content: flex-start;
   align-items: center;
   gap: 20px;
   max-width: calc(100% - 100px);
