@@ -111,26 +111,26 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
+.small-logo .logo {
+  height: 30px; /* Smaller logo size on non-home pages */
   display: flex;
-  justify-content: space-between;
-  align-items: center; // Align items vertically centered
-  padding: 20px;
-  gap: 10px; // Adjust gap between logo and nav
+  align-items: center; /* Vertically align the logo with the nav text */
+}
 
+header:not([data-big]) {
   .home {
-    flex-grow: 0; // Prevents the logo area from growing
-    flex-shrink: 0; // Prevents the logo from shrinking
     display: flex;
     justify-content: flex-start;
-    align-items: center;
-    gap: 10px; // Space between logo and title
+    align-items: center; // Align logo and text vertically centered
+    gap: 10px; // Adjust gap between logo and title
+    flex-grow: 0; // Prevents the logo area from growing
+    flex-shrink: 0; // Prevents the logo from shrinking
   }
 
   nav {
     flex-grow: 1; // Ensures the nav takes up the remaining space
     display: flex;
-    justify-content: flex;
+    justify-content: flex-start; // Align nav items to the left
     align-items: center;
     gap: 20px; // Space between nav items
     max-width: calc(100% - 100px); // Prevents overflow of nav items, with some margin for the logo
