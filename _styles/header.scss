@@ -116,28 +116,29 @@ header:not([data-big]) {
   justify-content: space-between;
   align-items: center; // Ensure vertical alignment of logo and nav
   padding: 20px;
-  gap: 10px; // Adjust gap between elements
+  gap: 20px; // Increase gap between elements if necessary
 
   .home {
     display: flex;
     align-items: center; // Vertically center logo and title
     gap: 10px; // Space between logo and title text
     flex-shrink: 0; // Prevent logo section from shrinking
+    flex-grow: 1; // Allow the logo section to grow if needed
   }
 
   .small-logo .logo {
     height: 30px; /* Smaller logo size on non-home pages */
     display: flex;
     align-items: center; // Ensure logo is vertically centered
+    margin-right: 20px; // Add some space between logo and nav
   }
 
   nav {
-    flex-grow: 1; // Ensure the nav takes up the remaining space
     display: flex;
     align-items: center; // Align nav items vertically
     gap: 20px; // Space between nav items
+    flex-grow: 1; // Allow nav to take up available space
     justify-content: flex-end; // Align nav items to the right
-    max-width: calc(100% - 100px); // Prevent overflow of nav items, with some margin for the logo
   }
 
   @media (max-width: $collapse) {
