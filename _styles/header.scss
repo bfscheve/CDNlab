@@ -128,7 +128,7 @@ header:not([data-big]) {
   .small-logo .logo {
     height: 30px; /* Smaller logo size on non-home pages */
     display: flex;
-    align-items: center; // Ensure logo is vertically centered
+    align-items: left;
     margin-right: 20px; // Space between logo and nav
   }
 
