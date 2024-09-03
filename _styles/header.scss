@@ -111,12 +111,6 @@ nav > a:hover {
   color: var(--primary);
 }
 
-.small-logo .logo {
-  height: 30px; /* Smaller logo size on non-home pages */
-  display: flex;
-  align-items: center; /* Vertically align the logo with the nav text */
-}
-
 header:not([data-big]) {
   .home {
     display: flex;
