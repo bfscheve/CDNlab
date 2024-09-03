@@ -104,26 +104,27 @@ header:not([data-big]) {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  gap: 10px;
+  gap: 20px;
 }
 header:not([data-big]) .home {
   display: flex;
   align-items: center;
   gap: 10px;
   flex-shrink: 0;
+  flex-grow: 1;
 }
 header:not([data-big]) .small-logo .logo {
   height: 30px; /* Smaller logo size on non-home pages */
   display: flex;
   align-items: center;
+  margin-right: 20px;
 }
 header:not([data-big]) nav {
-  flex-grow: 1;
   display: flex;
   align-items: center;
   gap: 20px;
+  flex-grow: 1;
   justify-content: flex-end;
-  max-width: calc(100% - 100px);
 }
 @media (max-width: 700px) {
   header:not([data-big]) {
