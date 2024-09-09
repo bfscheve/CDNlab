@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s44271-024-00132-2
+  title: A behavioral signature for quantifying the social value of interpersonal
+    relationships with specific others
+  authors:
+  - "Jo\xE3o F. Guassi Moreira"
+  - Carolyn Parkinson
+  publisher: Communications Psychology
+  date: '2024-09-06'
+  link: https://doi.org/gvdn24
+  orcid: 0000-0001-8312-4487
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1037/emo0001306
   title: A data-driven typology of emotion regulation profiles.
   authors:
