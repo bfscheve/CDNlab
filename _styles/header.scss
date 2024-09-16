@@ -40,9 +40,6 @@ header a {
 
 .logo {
   height: $logo;
-  margin-left: 0;
-  padding-left: 0;
-
 }
 
 .logo > * {
@@ -115,44 +112,8 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
-  display: flex;
-  justify-content: flex-start; // Align content to the left
-  // align-items: center; // Ensure vertical alignment of logo and nav
-  // padding: 20px;
-  gap: 20px; // Adjust gap between elements if necessary
-
-  .home {
-    display: flex-start;
-    // align-items: center; // Vertically center logo and title
-    gap: 20px; // Space between logo and title text
-    flex-shrink: 0; // Prevent logo section from shrinking
-  }
-
-  .small-logo .logo {
-    height: 30px; /* Smaller logo size on non-home pages */
-    display: flex-start;
-    margin-left: 0;
-    padding-left: 0;
-    align-items: left;
-    margin-right: 20px; // Space between logo and nav
-  }
-
-  nav {
-    display: flex;
-    align-items: center; // Align nav items vertically
-    gap: 20px; // Space between nav items
-    flex-grow: 1; // Allow nav to take up available space
-    justify-content: flex-start; // Align nav items to the left, next to the logo
-  }
-
   @media (max-width: $collapse) {
-    flex-direction: column; // Stack items vertically on small screens
-    align-items: stretch; // Stretch items to full width
-
-    .home {
-      justify-content: center; // Center logo on small screens
-      flex-grow: 1;
-    }
+    justify-content: flex-end;
 
     .nav-toggle {
       display: flex;
@@ -163,8 +124,8 @@ header:not([data-big]) {
     }
 
     nav {
-      flex-direction: row; // Stack nav items vertically
-      align-items: center;
+      align-items: flex-end;
+      flex-direction: column;
       width: 100%;
     }
   }
