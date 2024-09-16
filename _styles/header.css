@@ -107,13 +107,13 @@ header:not([data-big]) {
   gap: 20px;
 }
 header:not([data-big]) .home {
-  display: flex;
+  display: flex-start;
   gap: 20px;
   flex-shrink: 0;
 }
 header:not([data-big]) .small-logo .logo {
   height: 30px; /* Smaller logo size on non-home pages */
-  display: flex;
+  display: flex-start;
   margin-left: 0;
   padding-left: 0;
   align-items: left;
