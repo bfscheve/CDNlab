@@ -11,7 +11,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap; /* Allows wrapping on smaller screens */
+  flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
@@ -40,7 +40,6 @@ header a {
 
 .logo {
   height: $logo;
-  flex-shrink: 0; /* Ensures logo does not shrink */
 }
 
 .logo > * {
@@ -56,7 +55,6 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
-  white-space: nowrap; /* Prevents text wrapping */
 }
 
 .title {
@@ -114,13 +112,8 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  padding: 5px;
-  
   @media (max-width: $collapse) {
-    justify-content: flex-start;
+    justify-content: flex-end;
 
     .nav-toggle {
       display: flex;
@@ -131,7 +124,7 @@ header:not([data-big]) {
     }
 
     nav {
-      align-items: flex-start;
+      align-items: flex-end;
       flex-direction: column;
       width: 100%;
     }
