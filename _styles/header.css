@@ -100,17 +100,17 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
+  padding: 0; /* Remove padding from all sides */
   justify-content: flex-start; /* Align content to the left */
-  padding: 0 20px; /* Remove padding if needed */
 }
 header:not([data-big]) .logo {
-  padding: 0; /* Remove any padding on the logo */
-  margin-right: 20px; /* Add some margin to separate logo from navbar */
+  padding: 0; /* Remove any padding */
+  margin: 0; /* Remove margin to align logo flush to the left */
 }
 header:not([data-big]) nav {
   display: flex;
   align-items: center;
-  flex-direction: row; /* Ensure nav items are aligned in a row */
+  flex-direction: row; /* Make sure nav items are in a row */
   gap: 20px;
 }
 @media (max-width: 700px) {
