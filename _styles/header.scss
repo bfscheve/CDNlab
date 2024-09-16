@@ -1,3 +1,6 @@
+---
+---
+
 $logo-big: 80px;
 $logo: 40px;
 $big-padding: 100px;
@@ -33,7 +36,6 @@ header a {
   flex-basis: 0;
   flex-grow: 1;
   max-width: 100%;
-  flex-wrap: nowrap; // Prevent wrapping of the logo and navigation text
 }
 
 .logo {
@@ -95,7 +97,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: nowrap; // Prevent wrapping in the navigation section
+  flex-wrap: wrap;
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
@@ -111,7 +113,7 @@ nav > a:hover {
 
 header:not([data-big]) {
   @media (max-width: $collapse) {
-    justify-content: flex-start; // Align to the left when not on the home page
+    justify-content: flex-end;
 
     .nav-toggle {
       display: flex;
