@@ -13,22 +13,16 @@ Individuals interested in joining the lab as graduate students next fall are enc
 
 **Postdoctoral Fellows and Visiting Scholars**  
 *Dr. Guassi Moreira is accepting postdoctoral fellows to join in Spring 2024 or Fall 2025.*  
-Individuals interested in joining the lab as a postdoctoral fellow should get in touch directly with Dr. Guassi Moreira by emailing him with a brief introduction about their research interests, the reason for their interest in the lab, and a copy of their CV.   
+Individuals interested in joining the lab as a postdoctoral fellow should get in touch directly with Dr. Guassi Moreira (jmoreira2@wisc.edu) by emailing him with a brief introduction about their research interests, the reason for their interest in the lab, and a copy of their CV.   
 
 **Post-Baccalaureate Research Staff, Programmers, and Research Technicians**  
 *The lab is not currently hiring new staff.*  
-If you are interested in joining the lab as a staff member (post-baccalaureate researcher, programmer, technician) please email Dr. Guassi Moreira with a cover letter and copy of your CV.  
+If you are interested in joining the lab as a staff member (post-baccalaureate researcher, programmer, technician) please email Dr. Guassi Moreira (jmoreira2@wisc.edu) with a cover letter and copy of your CV.  
 
 **Research Assistants**  
 *The lab is looking for several new volunteers.*  
-If you are interested in joining the lab as a volunteer research assistant, please reach out to the lab manager with a brief introduction about yourself, what you want to gain from volunteering in the lab, and a copy of your resume or CV. If you are a UW undergraduate student, you may be able to earn course credit for your involvement in the lab.  
+If you are interested in joining the lab as a volunteer research assistant, please reach out to the lab (cdnlab_psych@wisc.edu) with a brief introduction about yourself, what you want to gain from volunteering in the lab, and a copy of your resume or CV. If you are a UW undergraduate student, you may be able to earn course credit for your involvement in the lab.  
 
-{%
-  include button.html
-  type="email"
-  text="cdnlab"
-  link="cdnlab_psych@wisc.edu"
-%}
 {%
   include button.html
   type="phone"
