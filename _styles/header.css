@@ -2,7 +2,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
@@ -38,7 +38,7 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
