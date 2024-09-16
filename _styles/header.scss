@@ -11,7 +11,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
@@ -50,7 +50,7 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
@@ -112,9 +112,22 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
-  @media (max-width: $collapse) {
-    justify-content: flex-end;
+  justify-content: flex-start; /* Align content to the left */
+  padding: 0 20px; /* Remove padding if needed */
 
+  .logo {
+    padding: 0; /* Remove any padding on the logo */
+    margin-right: 20px; /* Add some margin to separate logo from navbar */
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    flex-direction: row; /* Ensure nav items are aligned in a row */
+    gap: 20px;
+  }
+
+  @media (max-width: $collapse) {
     .nav-toggle {
       display: flex;
     }
