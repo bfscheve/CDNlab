@@ -28,8 +28,6 @@ header a {
 
 .logo {
   height: 40px;
-  margin-left: 0;
-  padding-left: 0;
 }
 
 .logo > * {
@@ -101,39 +99,9 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
-  display: flex;
-  justify-content: flex-start;
-  gap: 20px;
-}
-header:not([data-big]) .home {
-  display: flex-start;
-  gap: 20px;
-  flex-shrink: 0;
-}
-header:not([data-big]) .small-logo .logo {
-  height: 30px; /* Smaller logo size on non-home pages */
-  display: flex-start;
-  margin-left: 0;
-  padding-left: 0;
-  align-items: left;
-  margin-right: 20px;
-}
-header:not([data-big]) nav {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  flex-grow: 1;
-  justify-content: flex-start;
-}
 @media (max-width: 700px) {
   header:not([data-big]) {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  header:not([data-big]) .home {
-    justify-content: center;
-    flex-grow: 1;
+    justify-content: flex-end;
   }
   header:not([data-big]) .nav-toggle {
     display: flex;
@@ -142,8 +110,8 @@ header:not([data-big]) nav {
     display: none;
   }
   header:not([data-big]) nav {
-    flex-direction: row;
-    align-items: center;
+    align-items: flex-end;
+    flex-direction: column;
     width: 100%;
   }
 }
