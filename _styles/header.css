@@ -2,7 +2,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* Allows wrapping on smaller screens */
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
@@ -28,6 +28,7 @@ header a {
 
 .logo {
   height: 40px;
+  flex-shrink: 0; /* Ensures logo does not shrink */
 }
 
 .logo > * {
@@ -43,6 +44,7 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  white-space: nowrap; /* Prevents text wrapping */
 }
 
 .title {
@@ -99,21 +101,10 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) {
-  padding: 0; /* Remove padding from all sides */
-  justify-content: flex-start; /* Align content to the left */
-}
-header:not([data-big]) .logo {
-  padding: 0; /* Remove any padding */
-  margin: 0; /* Remove margin to align logo flush to the left */
-}
-header:not([data-big]) nav {
-  display: flex;
-  align-items: center;
-  flex-direction: row; /* Make sure nav items are in a row */
-  gap: 20px;
-}
 @media (max-width: 700px) {
+  header:not([data-big]) {
+    justify-content: flex-end;
+  }
   header:not([data-big]) .nav-toggle {
     display: flex;
   }
