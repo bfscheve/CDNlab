@@ -103,7 +103,7 @@ nav > a:hover {
 
 @media (max-width: 700px) {
   header:not([data-big]) {
-    justify-content: flex-end;
+    justify-content: flex-start;
   }
   header:not([data-big]) .nav-toggle {
     display: flex;
@@ -112,7 +112,7 @@ nav > a:hover {
     display: none;
   }
   header:not([data-big]) nav {
-    align-items: flex-end;
+    align-items: flex-start;
     flex-direction: column;
     width: 100%;
   }
