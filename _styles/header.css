@@ -103,10 +103,9 @@ nav > a:hover {
 
 header:not([data-big]) {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 20px;
-  padding: 20px;
+  gap: 5px;
+  padding: 5px;
 }
 @media (max-width: 700px) {
   header:not([data-big]) {
