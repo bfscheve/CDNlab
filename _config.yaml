@@ -8,12 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: cdnlab.uwisc@gmail.com
+  email: cdnlab_psych@wisc.edu
   orcid: 0000-0001-8312-4487
   google-scholar: bEKIRfkAAAAJ
   github: jguassimoreira
-  twitter: c_shamballa
-  youtube: YourLabChannel
+  twitter: cdnlab_uwisc
   osf: https://osf.io/38e4d/
 
 ### jekyll settings
