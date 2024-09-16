@@ -2,7 +2,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
@@ -38,7 +38,7 @@ header a {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
@@ -99,10 +99,21 @@ nav > a:hover {
   color: var(--primary);
 }
 
+header:not([data-big]) {
+  justify-content: flex-start; /* Align content to the left */
+  padding: 0 20px; /* Remove padding if needed */
+}
+header:not([data-big]) .logo {
+  padding: 0; /* Remove any padding on the logo */
+  margin-right: 20px; /* Add some margin to separate logo from navbar */
+}
+header:not([data-big]) nav {
+  display: flex;
+  align-items: center;
+  flex-direction: row; /* Ensure nav items are aligned in a row */
+  gap: 20px;
+}
 @media (max-width: 700px) {
-  header:not([data-big]) {
-    justify-content: flex-end;
-  }
   header:not([data-big]) .nav-toggle {
     display: flex;
   }
