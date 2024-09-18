@@ -15,4 +15,4 @@ Announcements and news from the CDN Lab!
 
 {% include search-info.html %}
 
-{% include list.html data="posts" %}
+{% include list.html data="posts" component="excerpt" filter="date: 2024"%}
