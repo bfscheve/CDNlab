@@ -13,7 +13,7 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Highlighted
 
-{% include citation.html lookup="A data-driven typology of emotion regulation profiles." style="rich" %}
+{% include citation.html lookup="A data-driven typology of emotion regulation profiles." %}
 
 {% include section.html %}
 
@@ -23,4 +23,4 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}
