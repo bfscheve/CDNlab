@@ -59,7 +59,7 @@ Our research fundamentally concerns how youths acquire necessary cognitive, affe
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the lab"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
