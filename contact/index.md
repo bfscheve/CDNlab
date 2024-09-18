@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+**Potential Participants**   
+If you are interested in participating in a study, please reach out to the lab (cdnlab_psych@wisc.edu) or fill out [this form](https://forms.gle/AAR4EzLp7QMZ2sk8A )
+
 **Doctoral students**  
 *Dr. Guassi Moreira is accepting students to start in Fall 2025.*  
 Individuals interested in joining the lab as graduate students next fall are encouraged to first reach out to Dr. Guassi Moreira (jmoreira2@wisc.edu) to let him know they are interested on applying and to share their CV. If needed, he may ask to schedule a brief zoom call. Whether an applicant has a zoom call or any prior contact will not influence any admission decisions. Afterwards, the applicant should apply to the University of Wisconsin, Madison’s PhD program in psychology by December 1st.   
