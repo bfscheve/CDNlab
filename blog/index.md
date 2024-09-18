@@ -9,4 +9,10 @@ nav:
 
 Announcements and news from the CDN Lab!
 
+{% include section.html %}
 
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="posts" %}
