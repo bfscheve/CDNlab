@@ -242,3 +242,17 @@
   orcid: 0000-0001-8312-4487
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.31234/osf.io/fk8jz
+  title: Registered Replication Report and Extension of Maas &amp;amp; Hox (2005),
+    Sufficient Sample Sizes for Multilevel Models
+  authors:
+  - Joao F Guassi Moreira
+  - Jared Block
+  - Alondra M. Cruz
+  - Craig K. Enders
+  - Amanda Kay Montoya
+  publisher: Center for Open Science
+  date: '2023-09-28'
+  link: https://doi.org/g2gj4j
+  plugin: sources.py
+  file: sources.yaml
