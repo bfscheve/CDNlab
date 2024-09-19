@@ -23,7 +23,7 @@ We are the Computational Developmental Neuroscience Laboratory at the University
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Fig1.png"
   link="research"
   title="Our Papers"
   text=text
