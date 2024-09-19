@@ -9,7 +9,7 @@ nav:
 
 All publications from the Computational Developmental Neuroscience Lab.
 
-# Preprints and In Press
+## Preprints and In Press
 
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (in principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [Link](https://osf.io/preprints/psyarxiv/fk8jz)
 
