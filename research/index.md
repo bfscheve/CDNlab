@@ -9,6 +9,14 @@ nav:
 
 All publications from the Computational Developmental Neuroscience Lab.
 
+# Preprints and In Press
+
+Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (in principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [Link](https://osf.io/preprints/psyarxiv/fk8jz)
+
+Sahi, R. S., Nussbaum, S., Guassi Moreira, J. F., Gaines, E. M., Ninova, E., Lee, D., Eisenberger, N. I., Silvers, J. A. (2024). Vocal pitch as an acoustic marker of social support efficacy. [Link](https://doi.org/10.31234/osf.io/x5te2)
+
+Moreira, J. F. G., Esparza, L. C., Silvers, J. A., & Parkinson, C. (2024). Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations. [Link](https://doi.org/10.1101/2024.07.16.603808)
+
 {% include section.html %}
 
 ## Highlighted
