@@ -1,5 +1,5 @@
 
-# Draft Website
+# Computational Developmental Neuroscience Lab at the University of Wisconsin-Madison Website
 
 Visit **[bfscheve.github.io/CDNlab](https://bfscheve.github.io/CDNlab)** 🚀
 
