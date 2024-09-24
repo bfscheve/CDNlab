@@ -1,7 +1,7 @@
 
 # Computational Developmental Neuroscience Lab at the University of Wisconsin-Madison Website
 
-Visit **[bfscheve.github.io/CDNlab](https://bfscheve.github.io/CDNlab)** 🚀
+Visit **[cdnlab.psych.wisc.edu/CDNlab](http://cdnlab.psych.wisc.edu/CDNlab)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
