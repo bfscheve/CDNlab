@@ -1,1 +1,1 @@
-Sitemap: https://bfscheve.github.io/CDNlab/sitemap.xml
+Sitemap: http://cdnlab.psych.wisc.edu/CDNlab/sitemap.xml
