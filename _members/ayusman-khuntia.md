@@ -1,6 +1,6 @@
 ---
 name: Ayusman Khuntia
-image: images/photo.jpg
+image: images/C31A9120 2.jpg
 description: Undergraduate Research Assistant
 role: undergrad
 links:
