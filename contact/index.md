@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 **Potential Participants**   
-If you or your child are interested in participating in a study, please email the lab (cdnlab_psych@wisc.edu) or fill out [this form](https://forms.gle/AAR4EzLp7QMZ2sk8A ).
+If you or your child are interested in participating in a study, please email the lab (cdnlab_psych@wisc.edu).
 
 **Doctoral students**  
 *Dr. Guassi Moreira is accepting students to start in Fall 2025.*  
