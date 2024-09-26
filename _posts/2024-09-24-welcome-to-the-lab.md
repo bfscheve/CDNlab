@@ -1,6 +1,5 @@
 ---
 title: Welcome to the Computational Developmental Neuroscience Laboratory
-image: images/fallback.png
 author: joao-moreira
 tags: general
 ---
