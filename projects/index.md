@@ -37,9 +37,7 @@ their own. We want to know what drives adolescent decision behavior by examining
 why teens make certain kinds of choices. We currently focus on two categories of teen choice
 behavior. First, we care about evaluating and refining popular scientific models of adolescent
 risk-taking, especially in ecologically relevant contexts (e.g., substance use, driving behavior).
-Second, we are curious about how teens’ social decision preferences involving known others
-(e.g., how do they navigate choices that outcomes for multiple known others, sometimes in
-conflicting ways?). **Dr. Guassi Moreira is accepting students and trainees who are interested in
+Second, we are broadly curious about teens’ social decision preferences involving known others (e.g., how do they navigate choices that carry outcomes for multiple known others, sometimes in conflicting ways?). **Dr. Guassi Moreira is accepting students and trainees who are interested in
 this line of work.**
 
 # Emotion and Emotion Regulation
