@@ -60,8 +60,7 @@ regarding specific and known others relevant to daily life—by using high densi
 ecological momentary assessment in conjunction with fine-grained estimates of mental
 representations of said others. We want to know how and why teens allocate their time
 between various known others, how they feel and what activities they complete when doing so.
-The goal of this arc of work is to help push the field towards translating knowledge gained-in lab
-to predict and understand real-world behavior. **Dr. Guassi Moreira is accepting students who are interested in this line of work.**
+The goal of this arc of work is to help push the field towards translating knowledge gained in-lab to predict and understand real-world behavior. **Dr. Guassi Moreira is accepting students who are interested in this line of work.**
 
 # Methods Development
 Scientific advancement is impossible without methodological advancement. A nascent line of
@@ -70,8 +69,7 @@ and other groups face in pursuing the research described above. For us, this mea
 methodological issue that is frequently encountered in our work (e.g., necessary sample sizes
 for a specific type of model) and systematically probing the issue in an independent study in a
 such way that generates useful knowledge that can generalize to other scientists in our field
-(e.g., running simulation study to ascertain the minimum number of subjects need to fit said
-model). We also believe in the importance of creating practical and accessible reviews of
+(e.g., running a simulation study to ascertain the minimum number of subjects need to fit said model). We also believe in the importance of creating practical and accessible reviews of
 emergent methods to help spur their adoption in research groups that are interested in using
 them but do not have prior experience. **Dr. Guassi Moreira is accepting students who are
 interested in this line of work.**
