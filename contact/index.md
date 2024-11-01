@@ -24,7 +24,7 @@ If you are interested in joining the lab as a staff member (post-baccalaureate r
 
 **Research Assistants**  
 *The lab is looking for several new volunteers.*  
-If you are interested in joining the lab as a volunteer research assistant, please reach out to the lab (cdnlab_psych@wisc.edu) with a brief introduction about yourself, what you want to gain from volunteering in the lab, and a copy of your resume or CV. If you are a UW undergraduate student, you may be able to earn course credit for your involvement in the lab.  
+UW-Madison undergraduate students interested in joining the lab should complete this [qualtrics survey](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cHXKXIJiKcRvdoq). If you are interested in joining the lab as a volunteer research assistant, please reach out to the lab (cdnlab_psych@wisc.edu) with a brief introduction about yourself, what you want to gain from volunteering in the lab, and a copy of your resume or CV.
 
 {%
   include button.html
