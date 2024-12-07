@@ -31,7 +31,7 @@ We are the Computational Developmental Neuroscience Laboratory at the University
 
 {% capture text %}
 
-Our research fundamentally concerns how youths acquire necessary cognitive, affective and social skills, utilizing diverse data sets (functional magnetic resonance imaging (fMRI), capture of naturalistic written text, and ecological momentary assessment) and advanced computational techniques.
+Our research fundamentally concerns how youths acquire necessary cognitive, affective and social skills, utilizing diverse data sets (functional magnetic resonance imaging (fMRI), capture of naturalistic written text, and ecological momentary assessment) and advanced computational techniques. 
 
 {%
   include button.html
