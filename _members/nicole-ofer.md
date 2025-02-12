@@ -1,6 +1,6 @@
 ---
 name: Nicole Ofer
-image: images/IMG_3158.jpeg
+image: images/Nicole.jpeg
 description: Undergraduate Research Assistant
 role: undergrad
 links:
