@@ -11,7 +11,7 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
-Guassi Moreira, J. F., & Silvers, J. A. (2024). Multi-Voxel Pattern Analysis for Developmental Cognitive Neuroscientists. [PsyArXiv](https://doi.org/10.31234/osf.io/5necw_v1)
+Guassi Moreira, J. F., & Silvers, J. A. (In Press). Multi-Voxel Pattern Analysis for Developmental Cognitive Neuroscientists. *Developmental Cognitive Neuroscience* [PsyArXiv](https://doi.org/10.31234/osf.io/5necw_v1)
 
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (in principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
 
