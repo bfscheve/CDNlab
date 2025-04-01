@@ -11,8 +11,6 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
-Guassi Moreira, J. F., & Silvers, J. A. (In Press). Multi-Voxel Pattern Analysis for Developmental Cognitive Neuroscientists. *Developmental Cognitive Neuroscience* [PsyArXiv](https://doi.org/10.31234/osf.io/5necw_v1)
-
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
 
 Sahi, R. S., Nussbaum, S., Guassi Moreira, J. F., Gaines, E. M., Ninova, E., Lee, D., Eisenberger, N. I., Silvers, J. A. (2024). Vocal pitch as an acoustic marker of social support efficacy. [PsyArXiv](https://doi.org/10.31234/osf.io/x5te2)
