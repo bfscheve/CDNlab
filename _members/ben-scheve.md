@@ -1,6 +1,6 @@
 ---
 name: Ben Scheve
-image: images/headshot.jpg
+image: images/bs_headshot.png
 role: postbac
 description: Lab Manager
 links:
