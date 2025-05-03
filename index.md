@@ -69,7 +69,7 @@ Our research fundamentally concerns how youths acquire necessary cognitive, affe
 
 {%
   include feature.html
-  image="images/IMG_0763.jpeg"
+  image="images/lab_photo_spring25.jpg"
   link="team"
   title="Our Team"
   text=text
