@@ -58,7 +58,7 @@ we’re also interested in understanding how unique repertoires of various emoti
 
 # Person Knowledge and Social Behavior in Context
 Often, the most consequential and meaningful social behaviors that teens engage in involve specific, known others: teachers in the classroom, classmates on the school bus, parents and siblings at the dinner table, and so on. Yet, so much psychological research on social behavior remains a science of strangers. This research arc of the lab is concerned with explaining and predicting social behavior in its proper ecological context—that is, behavior regarding specific and known others relevant to daily life—by blending techniques such as experience sampling, intensive longitudinal data collection, and natural language processing. We employ these research methods to better understand how teens allocate their time between the various social partners in their lives, why they choose certain shared activities over others (e.g., going to the mall vs watching a movie), and what makes an experience with a social partner enjoyable. Currently, this work takes the form of investigating how person knowledge and mental representations of social partners influence daily social behavior. Ultimately, the goal of this arc is to help translate knowledge gained in-lab to predict and understand real-world social behavior.  
-**Representative Papers: ** 
+**Representative Papers:**  
 **Guassi Moreira, J. F.**, & Parkinson, C. (2024). A behavioral signature for quantifying the social value of interpersonal relationships with specific others. *Communications Psychology, 2*(84), 1–17. <https://doi.org/10.1038/s44271-024-00132-2>  
 **Guassi Moreira, J. F.**, Méndez Leal, A. S., Waizman, Y., Tashjian, S. M., Galván, A., & Silvers, J. A. (2023). Value-based neural representations predict social decision preferences. *Cerebral Cortex, 33*(13), 8605–8619. <https://doi.org/10.1093/cercor/bhad144>  
 **Dr. Guassi Moreira is accepting students who are interested in this line of work.**
@@ -73,7 +73,7 @@ such way that generates useful knowledge that can generalize to other scientists
 (e.g., running a simulation study to ascertain the minimum number of subjects need to fit said model). We also believe in the importance of creating practical and accessible reviews of
 emergent methods to help spur their adoption in research groups that are interested in using
 them but do not have prior experience.  
-**Representative papers:**  
+**Representative papers:**   
 **Guassi Moreira, J. F.**, & Silvers, J. A. (2025). Multi-voxel pattern analysis for developmental cognitive neuroscientists. *Developmental Cognitive Neuroscience, 73*, 101555. <https://doi.org/10.1016/j.dcn.2025.101555>  
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. British Journal of Mathematical and Statistical Psychology. [PsyArXiv](psyarxiv.com/fk8jz)  
 **Dr. Guassi Moreira is accepting students who are
