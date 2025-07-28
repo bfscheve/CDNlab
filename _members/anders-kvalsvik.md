@@ -1,6 +1,6 @@
 ---
-name: Anders
-image: images/placeholder
+name: Anders Kvalsvik
+image: images/anders.jpeg
 role: undergrad
 description:
 links:
