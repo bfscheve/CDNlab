@@ -106,7 +106,7 @@ Do, K. T., Guassi Moreira, J. F., & Telzer, E. H. (2017). But is helping you wor
 Guassi Moreira, J. F., Van Bavel, J. J., & Telzer, E. H. (2017). The neural development of ‘us and them’. *Social Cognitive and Affective Neuroscience, 12*(2), 184–196. <https://doi.org/10.1093/scan/nsw134>  
 [Data](osf.io/jqv24)
 
-**Guassi Moreira, J. F.**, Miernicki, M. E., & Telzer, E. H. (2016). Relationship quality buffers association between co-rumination and depressive symptoms among first year college students. *Journal of Youth and Adolescence, 45*(3), 484–493. <https://doi.org/10.1007/s10964-015-0396-8>  
+Guassi Moreira, J. F., Miernicki, M. E., & Telzer, E. H. (2016). Relationship quality buffers association between co-rumination and depressive symptoms among first year college students. *Journal of Youth and Adolescence, 45*(3), 484–493. <https://doi.org/10.1007/s10964-015-0396-8>  
 [Data](osf.io/927xz)
 
-**Guassi Moreira, J. F.**, & Telzer, E. H. (2015). Changes in family cohesion and links to depression during the college transition. *Journal of Adolescence, 43*, 72–82. <https://doi.org/10.1016/j.adolescence.2015.05.012>
+Guassi Moreira, J. F., & Telzer, E. H. (2015). Changes in family cohesion and links to depression during the college transition. *Journal of Adolescence, 43*, 72–82. <https://doi.org/10.1016/j.adolescence.2015.05.012>
