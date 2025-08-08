@@ -15,7 +15,7 @@ Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In pri
 
 Sahi, R.S., Nussbaum, S.G., Guassi Moreira, J.F., Gaines, E.M., Ninova, E., Lee, D., Eisenberger, N.I., & Silvers, J.A. (in press). Vocal pitch as an acoustic marker of social support efficacy in women friendships. *Journal of Experimental Psychology: General*. [PsyArXiv](https://osf.io/preprints/psyarxiv/x5te2_v1)
 
-Guassi Moreira, J. F., Esparza, L. C., Silvers, J. A., & Parkinson, C. (2024). Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations. [bioRXiv](https://doi.org/10.1101/2024.07.16.603808)
+Guassi Moreira, J. F., Esparza, L. C., Silvers, J. A., & Parkinson, C. (2024). Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations. *Journal of Neuroscience* [bioRXiv](https://doi.org/10.1101/2024.07.16.603808)
 
 ## All
 
