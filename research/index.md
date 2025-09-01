@@ -11,6 +11,8 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
+Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (under review). Connectome-based predictive modeling of concurrent and prospective substance use in adolescence.
+
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
 
 Sahi, R.S., Nussbaum, S.G., Guassi Moreira, J.F., Gaines, E.M., Ninova, E., Lee, D., Eisenberger, N.I., & Silvers, J.A. (in press). Vocal pitch as an acoustic marker of social support efficacy in women friendships. *Journal of Experimental Psychology: General*. [PsyArXiv](https://osf.io/preprints/psyarxiv/x5te2_v1)
