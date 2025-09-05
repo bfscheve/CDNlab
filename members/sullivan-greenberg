@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Sullivan Greenberg</title>
+
+<link rel="icon" href="/CDNlab/images/icon.png">
+
+<meta name="title" content="Sullivan Greenberg">
+<meta name="description" content="Undergraduate Research Assistant">
+
+<meta property="og:title" content="Sullivan Greenberg">
+<meta property="og:site_title" content="">
+<meta property="og:description" content="Undergraduate Research Assistant">
+<meta property="og:url" content="http://cdnlab.psych.wisc.edu/CDNlab">
+<meta property="og:image" content="/CDNlab/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Sullivan Greenberg">
+<meta property="twitter:description" content="Undergraduate Research Assistant">
+<meta property="twitter:url" content="http://cdnlab.psych.wisc.edu/CDNlab">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/CDNlab/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Sullivan Greenberg",
+    "description": "Undergraduate Research Assistant",
+    "headline": "Sullivan Greenberg",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/CDNlab/images/icon.png" }
+    },
+    "url": "http://cdnlab.psych.wisc.edu/CDNlab"
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="http://cdnlab.psych.wisc.edu/CDNlab/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link
+  href="https://use.fontawesome.com/releases/v6.5.0/css/all.css"
+  rel="stylesheet"
+  media="none"
+  onload="this.removeAttribute('media'); this.onload = null;"
+/>
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link 
+  href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
+  rel="stylesheet"
+/>
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link
+      href="/CDNlab/_styles/-theme.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/alert.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/all.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/anchor.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/background.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/body.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/bold.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/button.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/card.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/checkbox.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/citation.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/code.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/cols.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/dark-toggle.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/feature.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/figure.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/float.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/font.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/footer.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/form.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/grid.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/header.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/heading.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/highlight.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/icon.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/image.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/link.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/list.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/main.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/paragraph.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/portrait.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/post-excerpt.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/post-info.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/post-nav.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/quote.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/rule.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/search-box.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/search-info.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/section.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/table.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/tags.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/textbox.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/tooltip.css"
+      rel="stylesheet"
+    />
+  
+
+  
+    <link
+      href="/CDNlab/_styles/util.css"
+      rel="stylesheet"
+    />
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/CDNlab/_scripts/anchors.js"></script>
+
+  <script src="/CDNlab/_scripts/dark-mode.js"></script>
+
+  <script src="/CDNlab/_scripts/fetch-tags.js"></script>
+
+  <script src="/CDNlab/_scripts/search.js"></script>
+
+  <script src="/CDNlab/_scripts/site-search.js"></script>
+
+  <script src="/CDNlab/_scripts/table-wrap.js"></script>
+
+  <script src="/CDNlab/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header
+  class="background small-logo"
+  style="--image: url('/CDNlab/images/background.jpg')"
+  
+    data-dark="true"
+  
+  
+>
+  <a href="/CDNlab/" class="home">
+    
+      <span class="logo">
+        
+          <img src="/CDNlab/images/logo.png" alt="logo">
+        
+      </span>
+    
+    
+      <span class="title-text" data-tooltip="Home">
+        
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a
+          href="/CDNlab/research/"
+          data-tooltip="Published works"
+        >
+          Papers
+        </a>
+      
+    
+      
+        <a
+          href="/CDNlab/projects/"
+          data-tooltip="Interests, projects and more"
+        >
+          Research
+        </a>
+      
+    
+      
+        <a
+          href="/CDNlab/team/"
+          data-tooltip="About our team"
+        >
+          Team
+        </a>
+      
+    
+      
+        <a
+          href="/CDNlab/blog/"
+          data-tooltip="Announcements"
+        >
+          News
+        </a>
+      
+    
+      
+        <a
+          href="/CDNlab/contact/"
+          data-tooltip="Email, address, and location"
+        >
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+
+
+
+
+
+  
+  
+  
+
+  <section
+    class="background"
+    data-size="page"
+    
+    
+  >
+    <div
+  class="float"
+  
+  
+>
+  
+<div class="portrait-wrapper">
+  <a class="portrait" data-style="" aria-label="Sullivan Greenberg">
+    
+      <i class="icon fa-solid fa-school"></i>
+    
+
+    <img src="/CDNlab/images/sullivan.JPG" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/CDNlab/images/fallback.svg'; this.onerror = null;" />
+
+    
+      <span class="portrait-name">
+        Sullivan Greenberg
+      </span>
+    
+
+    
+      <span class="portrait-description">
+        Undergraduate Research Assistant
+      </span>
+    
+
+    
+  </a>
+</div>
+
+<div>
+  
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:slgreenberg2@wisc.edu" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+        <span>Email</span>
+      
+    </a>
+  </div>
+
+<br />
+  
+</div>
+
+
+</div>
+
+
+My name is Sullivan Greenberg, I’m a sophomore at UW-Madison studying psychology. I have a strong passion for working with families and children/adolescents. In my free time, I enjoy travelling, cooking and being with my dogs. In the future, I hope to work with children in a clinical setting, supporting their growth and well-being.
+  </section>
+
+
+    </main>
+    
+
+
+<footer
+  class="background"
+  style="--image: url('/CDNlab/images/background.jpg')"
+  
+    data-dark="true"
+  
+  data-size="wide"
+>
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://orcid.org/0000-0001-8312-4487"
+      
+        data-tooltip="ORCID"
+      
+      data-style="bare"
+      
+      aria-label="ORCID"
+    >
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://scholar.google.com/citations?user=bEKIRfkAAAAJ"
+      
+        data-tooltip="Google Scholar"
+      
+      data-style="bare"
+      
+      aria-label="Google Scholar"
+    >
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://github.com/jguassimoreira"
+      
+        data-tooltip="GitHub"
+      
+      data-style="bare"
+      
+      aria-label="GitHub"
+    >
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://twitter.com/cdnlab_uwisc"
+      
+        data-tooltip="Twitter"
+      
+      data-style="bare"
+      
+      aria-label="Twitter"
+    >
+      <i class="icon fa-brands fa-twitter"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="https://osf.io/38e4d/"
+      
+      data-style="bare"
+      
+      aria-label="button"
+    >
+      
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    &copy; 2025
+    
+    &nbsp; | &nbsp; Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  >
+</footer>
+
+  </body>
+</html>
