@@ -2,7 +2,7 @@
 name: Anders Kvalsvik
 image: images/anders.jpeg
 role: undergrad
-description:
+description: Undergraduate Research Assistant
 links:
 ---
 
