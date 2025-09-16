@@ -11,8 +11,8 @@ nav:
 If you or your child are interested in participating in a study, please email the lab (cdnlab_psych@wisc.edu).
 
 **Doctoral students**  
-*Dr. Guassi Moreira is accepting students to start in Fall 2025.*  
-Individuals interested in joining the lab as graduate students next fall are encouraged to first reach out to Dr. Guassi Moreira (jmoreira2@wisc.edu) to let him know they are interested on applying and to share their CV. If needed, he may ask to schedule a brief zoom call. Whether an applicant has a zoom call or any prior contact will not influence any admission decisions. Afterwards, the applicant should apply to the University of Wisconsin, Madison’s PhD program in psychology by December 1st.   
+*Dr. Guassi Moreira is accepting students to start in Fall 2026.*  
+Individuals interested in joining the lab as graduate students next fall are encouraged to first reach out to Dr. Guassi Moreira (jmoreira2@wisc.edu) to let him know they are interested on applying and to share their CV. If needed, he may ask to schedule a brief zoom call. Whether an applicant has a zoom call or any prior contact will not influence any admission decisions. Afterwards, the applicant should apply to the University of Wisconsin, Madison’s PhD program in psychology by December 1st. For additionals details, see [this link](https://psych.wisc.edu/joao-guassi-moreira-information-for-prospective-graduate-students/).  
 
 **Postdoctoral Fellows and Visiting Scholars**  
 *Dr. Guassi Moreira is accepting postdoctoral fellows to join in Spring 2024 or Fall 2025.*  
