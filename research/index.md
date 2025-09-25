@@ -11,7 +11,7 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
-Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (under review). Connectome-based predictive modeling of concurrent and prospective substance use in adolescence.
+Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (under review). Connectome-based predictive modeling of concurrent and prospective substance use in adolescence. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.01.673428v1.full)
 
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
 
@@ -26,9 +26,9 @@ Guassi Moreira, J. F., & Silvers, J. A. (2025). Multi-voxel pattern analysis for
 Guassi Moreira, J. F., & Parkinson, C. (2024). A behavioral signature for quantifying the social value of interpersonal relationships with specific others. *Communications Psychology, 2*(84), 1–17. <https://doi.org/10.1038/s44271-024-00132-2>  
 [Data](osf.io/rjqpc)
 
-Rosenberg, B. M., Guassi Moreira, J. F., Méndez Leal, A. S., Saragosa-Harris, N., Gaines, E., Meredith, W. J., Waizman, Y. H., Ninova, E., & Silvers, J. A. (2024). Functional connectivity between the nucleus accumbens and amygdala underlies avoidance learning during adolescence: Implications for developmental psychopathology. *Development and Psychopathology*. Advance online publication. <https://doi.org/10.1017/S095457942400141X>
+Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal, A.S., Saragosa-Harris, N., Gaines, E., Meredith, W.J., Waizman, Y.H., Ninova, E., Silvers, J.A. (2025). Functional connectivity between the nucleus accumbens and amygdala underlies avoidance learning during adolescence: Implications for developmental psychopathology. Development & Psychopathology, 37(4), 1833-1845. doi: [10.1017/ S095457942400141X](https://pubmed.ncbi.nlm.nih.gov/39324228/)
 
-Saragosa-Harris, N., Guassi Moreira, J. F., Waizman, Y., Sedykin, A., Peris, T. S., & Silvers, J. A. (2024). Early life adversity is associated with greater similarity in neural representations of ambiguous and threatening stimuli. *Development and Psychopathology*. Advance online publication. <https://doi.org/10.1017/S0954579424000683>  
+Saragosa-Harris, N., Guassi Moreira, J.F., Waizman, Y., Sedykin, A., Peris, T.S., & Silvers, J.A. (2025). Early life adversity is associated with greater similarity in neural representations of ambiguous and threatening stimuli. Development & Psychopathology, 37(2), 802-814. doi: [10.1017/S0954579424000683](https://pubmed.ncbi.nlm.nih.gov/38602091/)
 [Data](osf.io/atfn5)
 
 Guassi Moreira, J. F., Sahi, R. S., Calderón Leon, M. D., Saragosa-Harris, N., Waizman, Y., Sedykin, A., Ninova, E., Peris, T. S., Gross, J. J., & Silvers, J. A. (2024). A data-driven typology of emotion regulation profiles. *Emotion, 24*(5), 1125–1136. <https://doi.org/10.1037/emo0001306>
