@@ -1,6 +1,6 @@
 ---
 name: Sullivan Greenberg
-image: images/sullivan.JPG
+image: images/sullivan.jpeg
 description: Undergraduate Research Assistant
 role: undergrad
 links:
