@@ -11,6 +11,8 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
+Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for mapping for the neural underpinnings of mmotion. In LoBue, V., Pérez-Edgar, K., & Buss, K.A., (Eds.), Handbook of Emotional Development: Advances in Theory, Research, and Practice. New York: Springer. [PsyArXiv](https://osf.io/preprints/psyarxiv/u7dvp_v1)
+
 Guassi Moreira, J.F., Sung, K., Shen, Y.L., Sul, S., Youm, Y., & Parkinson, C. (under review). Getting to know you: Neural representations of other people grow more perceiver-specific over time. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.23.677973v1)
 
 Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (under review). Connectome-based predictive modeling of concurrent and prospective substance use in adolescence. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.01.673428v1.full)
@@ -19,11 +21,13 @@ Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In pri
 
 Sahi, R.S., Nussbaum, S.G., Guassi Moreira, J.F., Gaines, E.M., Ninova, E., Lee, D., Eisenberger, N.I., & Silvers, J.A. (in press). Vocal pitch as an acoustic marker of social support efficacy in women friendships. *Journal of Experimental Psychology: General*. [PsyArXiv](https://osf.io/preprints/psyarxiv/x5te2_v1)
 
-Guassi Moreira, J. F., Esparza, L. C., Silvers, J. A., & Parkinson, C. (in press). Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations. *Journal of Neuroscience* [bioRXiv](https://doi.org/10.1101/2024.07.16.603808)
-
 ## Publications by year  
 
 ### 2025  
+
+Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal., A.S., Saragosa-Harris, N.M., Gaines, E., Meredith, W.J., McCann, C.F., Coury, S.M., Waizman, Y., Ninova, E., & Silvers, J.A. (2025). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Aversive Learning. Developmental Cognitive Neuroscience, 76, 101617. doi: [10.1016/j.dcn.2025.101617](https://pubmed.ncbi.nlm.nih.gov/41027138/)
+
+Guassi Moreira, J. F., Esparza, L. C., Silvers, J. A., & Parkinson, C. (2025). Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations. *Journal of Neuroscience* , 45(45), e1696242025. doi: [10.1523/JNEUROSCI.1696-24.2025](https://www.jneurosci.org/content/45/45/e1696242025)
 
 Guassi Moreira, J. F., & Silvers, J. A. (2025). Multi-voxel pattern analysis for developmental cognitive neuroscientists. *Developmental Cognitive Neuroscience, 73*, 101555. <https://doi.org/10.1016/j.dcn.2025.101555>
 
