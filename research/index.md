@@ -11,7 +11,7 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
-Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for mapping for the neural underpinnings of mmotion. In LoBue, V., Pérez-Edgar, K., & Buss, K.A., (Eds.), Handbook of Emotional Development: Advances in Theory, Research, and Practice. New York: Springer. [PsyArXiv](https://osf.io/preprints/psyarxiv/u7dvp_v1)
+Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for mapping for the neural underpinnings of emotion. In LoBue, V., Pérez-Edgar, K., & Buss, K.A., (Eds.), Handbook of Emotional Development: Advances in Theory, Research, and Practice. New York: Springer. [PsyArXiv](https://osf.io/preprints/psyarxiv/u7dvp_v1)
 
 Guassi Moreira, J.F., Sung, K., Shen, Y.L., Sul, S., Youm, Y., & Parkinson, C. (under review). Getting to know you: Neural representations of other people grow more perceiver-specific over time. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.23.677973v1)
 
