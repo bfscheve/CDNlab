@@ -15,13 +15,13 @@ Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for ma
 
 Guassi Moreira, J.F., Sung, K., Shen, Y.L., Sul, S., Youm, Y., & Parkinson, C. (under review). Getting to know you: Neural representations of other people grow more perceiver-specific over time. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.23.677973v1)
 
-Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (in press). Connectome-based predictive modeling of concurrent and longitudinal substance use vulnerability in adolescence. *Developmental Cognitive Neuroscience*
-
 Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
 
-Sahi, R.S., Nussbaum, S.G., Guassi Moreira, J.F., Gaines, E.M., Ninova, E., Lee, D., Eisenberger, N.I., & Silvers, J.A. (in press). Vocal pitch as an acoustic marker of social support efficacy in women friendships. *Journal of Experimental Psychology: General*. [PsyArXiv](https://osf.io/preprints/psyarxiv/x5te2_v1)
-
 ## Publications by year  
+
+### 2026
+
+Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (2026). Connectome-based predictive modeling of concurrent and longitudinal substance use vulnerability in adolescence. *Developmental Cognitive Neuroscience*, 79, 101689. doi: [10.1016/j.dcn.2026.101689](https://www.sciencedirect.com/science/article/pii/S1878929326000228)
 
 ### 2025  
 
@@ -32,6 +32,8 @@ Guassi Moreira, J. F., & Silvers, J. A. (2025). Multi-voxel pattern analysis for
 Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal, A.S., Saragosa-Harris, N., Gaines, E., Meredith, W.J., Waizman, Y.H., Ninova, E., Silvers, J.A. (2025). Functional connectivity between the nucleus accumbens and amygdala underlies avoidance learning during adolescence: Implications for developmental psychopathology. Development & Psychopathology, 37(4), 1833-1845. doi: [10.1017/ S095457942400141X](https://pubmed.ncbi.nlm.nih.gov/39324228/)
 
 Rosenberg, B.M., Guassi Moreira, J.F., Méndez Leal., A.S., Saragosa-Harris, N.M., Gaines, E., Meredith, W.J., McCann, C.F., Coury, S.M., Waizman, Y., Ninova, E., & Silvers, J.A. (2025). Previous Institutionalization is Associated with Elevated Functional Connectivity between the Nucleus Accumbens and Amygdala during Aversive Learning. Developmental Cognitive Neuroscience, 76, 101617. doi: [10.1016/j.dcn.2025.101617](https://pubmed.ncbi.nlm.nih.gov/41027138/)
+
+Sahi, R.S., Nussbaum, S.G., Guassi Moreira, J.F., Gaines, E.M., Ninova, E., Lee, D., Eisenberger, N.I., & Silvers, J.A. (2025). Vocal pitch as an acoustic marker of social support efficacy in women friendships. *Journal of Experimental Psychology: General*, 154(12), 3284-3293. doi: [10.1037/xge0001841](https://pubmed.ncbi.nlm.nih.gov/41066259/)
 
 Saragosa-Harris, N., Guassi Moreira, J.F., Waizman, Y., Sedykin, A., Peris, T.S., & Silvers, J.A. (2025). Early life adversity is associated with greater similarity in neural representations of ambiguous and threatening stimuli. Development & Psychopathology, 37(2), 802-814. doi: [10.1017/S0954579424000683](https://pubmed.ncbi.nlm.nih.gov/38602091/)
 [Data](osf.io/atfn5)
