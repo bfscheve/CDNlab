@@ -15,7 +15,7 @@ Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for ma
 
 Guassi Moreira, J.F., Sung, K., Shen, Y.L., Sul, S., Youm, Y., & Parkinson, C. (under review). Getting to know you: Neural representations of other people grow more perceiver-specific over time. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.23.677973v1)
 
-Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (In principle acceptance). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
+Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (under stage two review). Registered replication report and extension of Maas & Hox (2005), sufficient sample sizes for multilevel models. *British Journal of Mathematical and Statistical Psychology*. [PsyArXiv](https://osf.io/preprints/psyarxiv/fk8jz)
 
 ## Publications by year  
 
