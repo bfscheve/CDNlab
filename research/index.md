@@ -11,6 +11,8 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
+Guassi Moreira, J.F., Sahi, R.S., & Silvers, J.A. (under review). From traits to moments: How emotion regulation repertoires shape daily affective experiences. [PsyArXiv](https://osf.io/preprints/psyarxiv/aextp_v1)
+
 Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for mapping for the neural underpinnings of emotion. In LoBue, V., Pérez-Edgar, K., & Buss, K.A., (Eds.), Handbook of Emotional Development: Advances in Theory, Research, and Practice. New York: Springer. [PsyArXiv](https://osf.io/preprints/psyarxiv/u7dvp_v1)
 
 Guassi Moreira, J.F., Sung, K., Shen, Y.L., Sul, S., Youm, Y., & Parkinson, C. (under review). Getting to know you: Neural representations of other people grow more perceiver-specific over time. [BioRXiv](https://www.biorxiv.org/content/10.1101/2025.09.23.677973v1)
@@ -20,6 +22,8 @@ Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (under 
 ## Publications by year  
 
 ### 2026
+
+Aczel, B., Szaszi, B., Clelland, H.T., Kovacs, M., Schulz-Kümpel, H., Holzmeister, F., Nilsonne, G., Hoffmann, S., Kosa, L., Torma, Z.A., … Guassi Moreira, J.F., … Errington, T., Nosek, B.A. (2026). Investigating the analytic robustness of the social and behavioral sciences. Nature, 625, 135-142. doi: [10.1038/s41586-025-09844-9](https://www.nature.com/articles/s41586-025-09844-9)
 
 Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (2026). Connectome-based predictive modeling of concurrent and longitudinal substance use vulnerability in adolescence. *Developmental Cognitive Neuroscience*, 79, 101689. doi: [10.1016/j.dcn.2026.101689](https://www.sciencedirect.com/science/article/pii/S1878929326000228)
 
