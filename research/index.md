@@ -23,7 +23,7 @@ Guassi Moreira, J.F., Block, J., Cruz, A., Enders, C.K., & Montoya, A.K. (under 
 
 ### 2026
 
-Aczel, B., Szaszi, B., Clelland, H.T., Kovacs, M., Schulz-Kümpel, H., Holzmeister, F., Nilsonne, G., Hoffmann, S., Kosa, L., Torma, Z.A., … Guassi Moreira, J.F., … Errington, T., Nosek, B.A. (2026). Investigating the analytic robustness of the social and behavioral sciences. Nature, 625, 135-142. doi: [10.1038/s41586-025-09844-9](https://www.nature.com/articles/s41586-025-09844-9)
+Aczel, B., Szaszi, B., Clelland, H.T., Kovacs, M., Schulz-Kümpel, H., Holzmeister, F., Nilsonne, G., Hoffmann, S., Kosa, L., Torma, Z.A., … Guassi Moreira, J.F., … Errington, T., Nosek, B.A. (2026). Investigating the analytic robustness of the social and behavioral sciences. *Nature*, 625, 135-142. doi: [10.1038/s41586-025-09844-9](https://www.nature.com/articles/s41586-025-09844-9)
 
 Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (2026). Connectome-based predictive modeling of concurrent and longitudinal substance use vulnerability in adolescence. *Developmental Cognitive Neuroscience*, 79, 101689. doi: [10.1016/j.dcn.2026.101689](https://www.sciencedirect.com/science/article/pii/S1878929326000228)
 
