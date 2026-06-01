@@ -20,7 +20,7 @@ postbac:
 
 undergrad:
   icon: fa-solid fa-school
-  description: Undergraduate Student
+  description: Undergraduate Thesis Student
 
 programmer:
   icon: fa-solid fa-code
