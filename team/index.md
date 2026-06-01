@@ -16,3 +16,11 @@ Click on the icons below to learn more about the members of our team!
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: postbac" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
+## Undergraduate Research Assistants
+
+Susie Wagstaff
+Sullivan Greenberg
+Grace Dykeman
+Alexis Muntean-Hapa
+Ashrita Patil
