@@ -27,6 +27,8 @@ Aczel, B., Szaszi, B., Clelland, H.T., Kovacs, M., Schulz-Kümpel, H., Holzmeist
 
 Guassi Moreira, J.F., Allgaier, N.A., Potter, A., Johnson, M.E., Garavan, H.P., & Fair, D.A. (2026). Connectome-based predictive modeling of concurrent and longitudinal substance use vulnerability in adolescence. *Developmental Cognitive Neuroscience*, 79, 101689. doi: [10.1016/j.dcn.2026.101689](https://www.sciencedirect.com/science/article/pii/S1878929326000228)
 
+Meredith, W.J., Guassi Moreira, J.F., Méndez Leal, A.S., Saragosa-Harris, N., Ninova, E., Waizman, Y., Gaines, E., Karlsgodt, K.H., Silvers, J.A. (2026). Neural focalization of dorsolateral prefrontal cortex and the inferior parietal lobule is associated with inhibitory control performance in adolescence. *Developmental Cognitive Neuroscience*, 80, 101750. doi: [10.1016/j.dcn.2026.101750](https://www.sciencedirect.com/science/article/pii/S1878929326000873)
+
 ### 2025  
 
 Guassi Moreira, J. F., Esparza, L. C., Silvers, J. A., & Parkinson, C. (2025). Social Decision Preferences for Close Others are Embedded in Neural and Linguistic Representations. *Journal of Neuroscience* , 45(45), e1696242025. doi: [10.1523/JNEUROSCI.1696-24.2025](https://www.jneurosci.org/content/45/45/e1696242025)
