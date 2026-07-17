@@ -1,6 +1,6 @@
 ---
 name: Sarah Harris
-image: images/SarahHarris.jpg
+image: images/SarahHarris.JPG
 role: postbac
 description: Lab Manager
 ---
