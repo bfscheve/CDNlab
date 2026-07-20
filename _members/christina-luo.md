@@ -1,6 +1,6 @@
 ---
 name: Christina Luo
-image: images/Bucky.jpg
+image: images/ChristinaLuo.jpg
 role: phd
 description: Graduate Student
 ---
