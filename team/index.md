@@ -23,8 +23,7 @@ Click on the icons below to learn more about the members of our team!
 
 ## Undergraduate Research Assistants
 
-Susie Wagstaff  
-Sullivan Greenberg  
+Susie Wagstaff    
 Grace Dykeman  
 Alexis Muntean-Hapa  
 Ashrita Patil  
