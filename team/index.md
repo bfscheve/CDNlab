@@ -23,10 +23,10 @@ Click on the icons below to learn more about the members of our team!
 
 ## Undergraduate Research Assistants
     
-Grace Dykeman  
-Alexis Muntean-Hapa    
-Allan Biju Gregory
-Sophie Vezina
-Izzy Bertram
-Livvy Schwartz
-Victoria Bystron
+- Grace Dykeman  
+- Alexis Muntean-Hapa    
+- Allan Biju Gregory
+- Sophie Vezina
+- Izzy Bertram
+- Livvy Schwartz
+- Victoria Bystron
