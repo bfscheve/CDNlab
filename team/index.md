@@ -22,9 +22,11 @@ Click on the icons below to learn more about the members of our team!
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}  
 
 ## Undergraduate Research Assistants
-
-Susie Wagstaff    
+    
 Grace Dykeman  
-Alexis Muntean-Hapa  
-Ashrita Patil  
+Alexis Muntean-Hapa    
 Allan Biju Gregory
+Sophie Vezina
+Izzy Bertram
+Livvy Schwartz
+Victoria Bystron
