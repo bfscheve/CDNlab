@@ -11,6 +11,8 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
+Scheve, B.F., Sahi, R.S., Silvers, J.A., & Guassi Moreira, J.F. (under review). Second-Order Geometry Helps Clarify Relationships between Emotion Regulation Strategy Use and Daily Affect. [PsyArXiv](https://osf.io/preprints/psyarxiv/cg3d2_v1)
+
 Guassi Moreira, J.F., Sahi, R.S., & Silvers, J.A. (under review). From traits to moments: How emotion regulation repertoires shape daily affective experiences. [PsyArXiv](https://osf.io/preprints/psyarxiv/aextp_v1)
 
 Guassi Moreira, J.F. (forthcoming). Functional magnetic resonance methods for mapping for the neural underpinnings of emotion. In LoBue, V., Pérez-Edgar, K., & Buss, K.A., (Eds.), Handbook of Emotional Development: Advances in Theory, Research, and Practice. New York: Springer. [PsyArXiv](https://osf.io/preprints/psyarxiv/u7dvp_v1)
