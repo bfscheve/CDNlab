@@ -23,7 +23,7 @@ Individuals interested in joining the lab as a postdoctoral fellow should get in
 If you are interested in joining the lab as a staff member (post-baccalaureate researcher, programmer, technician) please email Dr. Guassi Moreira (jmoreira2@wisc.edu) with a cover letter and copy of your CV.  
 
 **Research Assistants**  
-*The lab is looking for several new volunteers.*  
+*The lab is not currently taking on undergraduate volunteers.*  
 UW-Madison undergraduate students interested in joining the lab are encouraged to complete this [Qualtrics survey](https://uwmadison.co1.qualtrics.com/jfe/form/SV_cHXKXIJiKcRvdoq). Non-students interested in volunteering as a research assistant may reach out to the lab at cdnlab_psych@wisc.edu with a brief introduction about themselves, their goals for volunteering in the lab, and a copy of their resume or CV.
 {%
   include button.html
