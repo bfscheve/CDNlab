@@ -11,7 +11,7 @@ All publications from the Computational Developmental Neuroscience Lab.
 
 ## Preprints and In Press
 
-Méndez Leal, A.S., Waizman, Y.H., Guassi Moreira, J.F., Saragosa-Harris, N.M., Ninova, E., Fuligni, A.J., Eisenberger, N.I., Bower, J.E., Cole, S.W., & Silvers, J.A. (in press). Early caregiving adversity is associated with elevated pro-inflammatory gene expression during adolescence. Brain, Behavior, and Immunity.
+Méndez Leal, A.S., Waizman, Y.H., Guassi Moreira, J.F., Saragosa-Harris, N.M., Ninova, E., Fuligni, A.J., Eisenberger, N.I., Bower, J.E., Cole, S.W., & Silvers, J.A. (in press). Early caregiving adversity is associated with elevated pro-inflammatory gene expression during adolescence. *Brain, Behavior, and Immunity*.
 
 Scheve, B.F., Sahi, R.S., Silvers, J.A., & Guassi Moreira, J.F. (under review). Second-Order Geometry Helps Clarify Relationships between Emotion Regulation Strategy Use and Daily Affect. [PsyArXiv](https://osf.io/preprints/psyarxiv/cg3d2_v1)
 
